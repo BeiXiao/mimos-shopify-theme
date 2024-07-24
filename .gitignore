@@ -1,5 +1,26 @@
-# OS generated files #
-######################
+# Ignore node_modules directory
+node_modules/
+
+# Ignore npm and Yarn lock files
+package-lock.json
+yarn.lock
+
+# Ignore compiled files
+dist/
+build/
+
+# Ignore local environment files
+.env
+.env.local
+.env.*.local
+
+# Ignore IDE and editor specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore OS-specific files
 .DS_Store
 .DS_Store?
 ._*
@@ -7,3 +28,63 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Ignore Shopify theme specific files
+config/settings_data.json
+config/settings_schema.json
+assets/*.css.liquid
+assets/*.js.liquid
+assets/*.scss.liquid
+assets/*.css.map
+assets/*.js.map
+assets/*.min.*
+assets/*.gz
+assets/*.br
+assets/theme.css
+assets/theme.js
+assets/theme.scss
+assets/theme.css.liquid
+assets/theme.js.liquid
+assets/theme.scss.liquid
+assets/theme.css.map
+assets/theme.js.map
+assets/theme.min.*
+assets/theme.gz
+assets/theme.br
+
+# Ignore compiled Tailwind CSS files
+assets/tailwind.css
+assets/tailwind.css.liquid
+assets/tailwind.css.map
+assets/tailwind.min.*
+assets/tailwind.gz
+assets/tailwind.br
+
+# Ignore Shopify theme kit configuration files
+config.yml
+
+# Ignore local development files
+.shopify-cli-config
+.shopify-cli-config.local
+.shopify-cli-config.*.local
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.swp
+
+# Ignore backup files
+*.bak
+*.backup
+
+# Ignore other miscellaneous files
+*.lock
+*.pid
+*.seed
+*.cache
+*.tmp
+*.temp
+*.swp
+*.swo
