@@ -30,35 +30,35 @@ ehthumbs.db
 Thumbs.db
 
 # Ignore Shopify theme specific files
-config/settings_data.json
-config/settings_schema.json
-assets/*.css.liquid
-assets/*.js.liquid
-assets/*.scss.liquid
-assets/*.css.map
-assets/*.js.map
-assets/*.min.*
-assets/*.gz
-assets/*.br
-assets/theme.css
-assets/theme.js
-assets/theme.scss
-assets/theme.css.liquid
-assets/theme.js.liquid
-assets/theme.scss.liquid
-assets/theme.css.map
-assets/theme.js.map
-assets/theme.min.*
-assets/theme.gz
-assets/theme.br
+# config/settings_data.json
+# config/settings_schema.json
+# assets/*.css.liquid
+# assets/*.js.liquid
+# assets/*.scss.liquid
+# assets/*.css.map
+# assets/*.js.map
+# assets/*.min.*
+# assets/*.gz
+# assets/*.br
+# assets/theme.css
+# assets/theme.js
+# assets/theme.scss
+# assets/theme.css.liquid
+# assets/theme.js.liquid
+# assets/theme.scss.liquid
+# assets/theme.css.map
+# assets/theme.js.map
+# assets/theme.min.*
+# assets/theme.gz
+# assets/theme.br
 
 # Ignore compiled Tailwind CSS files
-assets/tailwind.css
-assets/tailwind.css.liquid
-assets/tailwind.css.map
-assets/tailwind.min.*
-assets/tailwind.gz
-assets/tailwind.br
+# assets/tailwind.css
+# assets/tailwind.css.liquid
+# assets/tailwind.css.map
+# assets/tailwind.min.*
+# assets/tailwind.gz
+# assets/tailwind.br
 
 # Ignore Shopify theme kit configuration files
 config.yml
