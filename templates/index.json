@@ -345,7 +345,7 @@
           "settings": {
             "icon": "picto-return-box",
             "custom_icon_width": 40,
-            "title": "Free 90-Day Returns",
+            "title": "Free 30-Day Returns",
             "content": "<p><a href=\"\/policies\/refund-policy\" title=\"Refund Policy\">See details<\/a><\/p>",
             "link_onclick_text": "",
             "link_onclick": ""
