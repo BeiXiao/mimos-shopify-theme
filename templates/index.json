@@ -335,7 +335,7 @@
             "icon": "picto-gift",
             "custom_icon_width": 40,
             "title": "Free Standard Shipping",
-            "content": "<p><a href=\"\/pages\/faq\" title=\"FAQs\">See details<\/a><\/p>",
+            "content": "<p><a href=\"\/policies\/shipping-policy\" title=\"Shipping Policy\">See details<\/a><\/p>",
             "link_onclick_text": "",
             "link_onclick": ""
           }
@@ -345,21 +345,10 @@
           "settings": {
             "icon": "picto-return-box",
             "custom_icon_width": 40,
-            "title": "Free 100-Day Returns",
-            "content": "<p><a href=\"\/pages\/faq\" title=\"FAQs\">See details<\/a><\/p>",
+            "title": "Free 90-Day Returns",
+            "content": "<p><a href=\"\/policies\/refund-policy\" title=\"Refund Policy\">See details<\/a><\/p>",
             "link_onclick_text": "",
             "link_onclick": ""
-          }
-        },
-        "template--20623353151774__996add08-d8d2-4ba6-ad8b-aedf27497e9c-item-3": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-chat",
-            "custom_icon_width": 40,
-            "title": "Concierge Service",
-            "content": "",
-            "link_onclick_text": "Start a Chat",
-            "link_onclick": "GorgiasChat.open();"
           }
         },
         "template--20623353151774__996add08-d8d2-4ba6-ad8b-aedf27497e9c-item-4": {
@@ -367,8 +356,19 @@
           "settings": {
             "icon": "picto-love",
             "custom_icon_width": 40,
-            "title": "Discovery Now",
-            "content": "<p><a href=\"\/collections\/new-arrivals\" title=\"New Arrivals\">Shop the New<\/a><\/p>",
+            "title": "Privacy Policy",
+            "content": "<p><a href=\"\/policies\/privacy-policy\" title=\"Privacy Policy\">See details<\/a><\/p>",
+            "link_onclick_text": "",
+            "link_onclick": ""
+          }
+        },
+        "item_LjG79A": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-customer-support",
+            "custom_icon_width": 50,
+            "title": "Contact Us",
+            "content": "<p><a href=\"\/policies\/contact-information\" title=\"Contact Information\">Tell Us<\/a><\/p>",
             "link_onclick_text": "",
             "link_onclick": ""
           }
@@ -377,8 +377,8 @@
       "block_order": [
         "template--20623353151774__996add08-d8d2-4ba6-ad8b-aedf27497e9c-item-1",
         "template--20623353151774__996add08-d8d2-4ba6-ad8b-aedf27497e9c-item-2",
-        "template--20623353151774__996add08-d8d2-4ba6-ad8b-aedf27497e9c-item-3",
-        "template--20623353151774__996add08-d8d2-4ba6-ad8b-aedf27497e9c-item-4"
+        "template--20623353151774__996add08-d8d2-4ba6-ad8b-aedf27497e9c-item-4",
+        "item_LjG79A"
       ],
       "settings": {
         "background": "#e8eaed",
@@ -426,6 +426,7 @@
         "template--20623353151774__ec776669-46f6-47a6-bd6d-fb32d23d7686-image-3",
         "978efee2-7af3-4307-bc7e-e6d1e581b5eb"
       ],
+      "disabled": true,
       "settings": {
         "subheading": "@my_beauty_boost",
         "title": "Community",
