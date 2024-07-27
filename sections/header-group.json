@@ -16,9 +16,10 @@
       "blocks": {
         "02a08cd2-a4af-4755-992f-ee32f6f7a46a": {
           "type": "message",
+          "disabled": true,
           "settings": {
-            "text": "<strong>TAKE 20% OFF<\/strong>. Apply code <strong>SPENDLESS<\/strong> at checkout. <a href=\"\/pages\/faq\" title=\"FAQs\">see details.<\/a>",
-            "text_mobile": "<strong>20% OFF<\/strong>. Use <strong>SPENDLESS<\/strong> at checkout. <a href=\"\/pages\/faq\" title=\"FAQs\">details.<\/a>"
+            "text": "Free Shipping on All Orders",
+            "text_mobile": "BUY 2 SAVE 10%,BUY 3 SAVE 15% !"
           }
         },
         "065e49af-f4b7-43fb-80af-bd7e01b8547b": {

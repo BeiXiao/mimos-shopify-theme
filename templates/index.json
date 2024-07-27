@@ -65,6 +65,7 @@
         "d738b1af-1ad2-42c4-8088-733a7ebb8ac5",
         "867196d1-2cdb-43e9-b9c9-d4a1fe804529"
       ],
+      "disabled": true,
       "settings": {
         "background_type": "full_width",
         "section_height": "auto",
@@ -89,6 +90,7 @@
     },
     "93cc2297-8145-40fa-ba14-005b18217573": {
       "type": "image-with-text-overlay",
+      "disabled": true,
       "settings": {
         "reveal_on_scroll": true,
         "section_height": "auto",
@@ -217,6 +219,7 @@
         "0a5df5b2-d7b7-483b-9a77-9038f79951ef",
         "16140c35-d3b4-45f6-b7b2-df66f04ff3f3"
       ],
+      "disabled": true,
       "settings": {
         "reveal_on_scroll": true,
         "stack_items": false,
