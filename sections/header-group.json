@@ -16,7 +16,6 @@
       "blocks": {
         "02a08cd2-a4af-4755-992f-ee32f6f7a46a": {
           "type": "message",
-          "disabled": true,
           "settings": {
             "text": "<strong>TAKE 20% OFF<\/strong>. Apply code <strong>SPENDLESS<\/strong> at checkout. <a href=\"\/pages\/faq\" title=\"FAQs\">see details.<\/a>",
             "text_mobile": "<strong>20% OFF<\/strong>. Use <strong>SPENDLESS<\/strong> at checkout. <a href=\"\/pages\/faq\" title=\"FAQs\">details.<\/a>"
@@ -24,7 +23,6 @@
         },
         "065e49af-f4b7-43fb-80af-bd7e01b8547b": {
           "type": "message",
-          "disabled": true,
           "settings": {
             "text": "For <strong>Overnight Shipping,<\/strong> order by 12\/21 at 12pm PT.",
             "text_mobile": "<strong>Overnight Shipping:<\/strong> Order by 12\/21 at 12pm PT."
