@@ -16,21 +16,21 @@
       "blocks": {
         "02a08cd2-a4af-4755-992f-ee32f6f7a46a": {
           "type": "message",
-          "disabled": true,
           "settings": {
-            "text": "Free Shipping on All Orders",
-            "text_mobile": "BUY 2 SAVE 10%,BUY 3 SAVE 15% !"
+            "text": "<strong>Free Shipping On All Orders<\/strong>",
+            "text_mobile": "<strong>Free Shipping On All Orders<\/strong>"
           }
         },
         "065e49af-f4b7-43fb-80af-bd7e01b8547b": {
           "type": "message",
           "settings": {
-            "text": "For <strong>Overnight Shipping,<\/strong> order by 12\/21 at 12pm PT.",
-            "text_mobile": "<strong>Overnight Shipping:<\/strong> Order by 12\/21 at 12pm PT."
+            "text": "<strong>BUY 2 SAVE 10%, BUY 3 SAVE 15% !<\/strong>",
+            "text_mobile": "<strong>BUY 2 SAVE 10%, BUY 3 SAVE 15% !<\/strong>"
           }
         },
         "message-1": {
           "type": "message",
+          "disabled": true,
           "settings": {
             "text": "<strong>Free Standard Shipping<\/strong> on all US orders. <a href=\"\/policies\/shipping-policy\" title=\"Shipping Policy\">see details<\/a>",
             "text_mobile": "<strong>Free Standard Shipping<\/strong> on all US orders. <a href=\"\/policies\/shipping-policy\" title=\"Shipping Policy\">details<\/a>"
@@ -38,6 +38,7 @@
         },
         "164bb6b0-5eee-4dde-a9fb-2cac04b06047": {
           "type": "message",
+          "disabled": true,
           "settings": {
             "text": "Use <strong>SHOP PAY<\/strong> at checkout. Checkout now, pay later! <a href=\"https:\/\/shop.app\/shop-pay\" target=\"_blank\" title=\"https:\/\/shop.app\/shop-pay\">see details<\/a>",
             "text_mobile": "Use <strong>SHOP PAY<\/strong>. Checkout now, Pay later! <a href=\"https:\/\/shop.app\/shop-pay\" target=\"_blank\" title=\"https:\/\/shop.app\/shop-pay\">details<\/a>"
@@ -45,6 +46,7 @@
         },
         "f2422903-4fb4-4375-ba2c-51fd0f8e19f8": {
           "type": "message",
+          "disabled": true,
           "settings": {
             "text": "Love It or <strong>Return It Free for 100 Days<\/strong>. <a href=\"\/policies\/refund-policy\" title=\"Refund Policy\">see details<\/a>",
             "text_mobile": "Love It or <strong>Return It Free for 100 Days<\/strong>. <a href=\"\/policies\/refund-policy\" title=\"Refund Policy\">details<\/a>"
