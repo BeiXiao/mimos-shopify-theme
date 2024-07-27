@@ -87,28 +87,6 @@
         "section_link_title": "Jewelry: The resolution you'll actually keep. Go to shop ready to ship now."
       }
     },
-    "1b0d26cb-f942-4e2a-8cbc-eb6e089c87a3": {
-      "type": "image-with-text-overlay",
-      "settings": {
-        "reveal_on_scroll": true,
-        "section_height": "auto",
-        "contain_image": false,
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "button_text": "",
-        "button_link": "",
-        "link_style": "button",
-        "background_type": "full_width",
-        "text_width": "small",
-        "text_position": "bottom_right",
-        "text_color": "#ffffff",
-        "button_background": "#e9fc5a",
-        "button_text_color": "#000000",
-        "overlay_color": "rgba(0,0,0,0)",
-        "overlay_opacity": 0
-      }
-    },
     "93cc2297-8145-40fa-ba14-005b18217573": {
       "type": "image-with-text-overlay",
       "settings": {
@@ -137,7 +115,7 @@
         "4b5acd4a-91c3-4aa0-afdd-8f999fe64449": {
           "type": "content",
           "settings": {
-            "text": "<em>January<\/em>",
+            "text": "<em>My Beauty Boost<\/em>",
             "title_style": "heading",
             "title_size": "h2",
             "text_color": "#ffffff",
@@ -148,7 +126,7 @@
         "89023c53-7f7c-4e97-a559-e5be9b5c8fe1": {
           "type": "content",
           "settings": {
-            "text": "AP: Edits",
+            "text": "Phone Case",
             "title_style": "heading",
             "title_size": "h3",
             "text_color": "#ffffff",
@@ -429,7 +407,6 @@
   },
   "order": [
     "7bc92fc2-7c15-4c93-a862-45344e198fdb",
-    "1b0d26cb-f942-4e2a-8cbc-eb6e089c87a3",
     "93cc2297-8145-40fa-ba14-005b18217573",
     "e7f47d1e-30bf-4bb2-8006-f59891d3350d",
     "92376b61-987e-4219-80fc-4103052f7b4a",
