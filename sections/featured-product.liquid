@@ -336,6 +336,8 @@
                         <button
                           type="submit"
                           data-product-add-to-cart-button
+                          data-ph-capture-attribute-product-name="{{product.title}}"
+                          data-ph-capture-attribute-product-price="{{product.price}}"
                           {% unless section.settings.show_payment_button %}
                             data-use-primary
                           {% endunless %}
