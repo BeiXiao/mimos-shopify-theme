@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "7bc92fc2-7c15-4c93-a862-45344e198fdb": {
@@ -230,9 +239,9 @@
         "f357a77e-1f55-421a-ae28-67c80fe924c9": {
           "type": "collection",
           "settings": {
-            "collection": "new-arrivals",
+            "collection": "best-selling-prints",
             "label": "",
-            "button_text": "See More New",
+            "button_text": "See More",
             "button_url": "shopify:\/\/collections\/new-arrivals"
           }
         }
@@ -242,7 +251,7 @@
       ],
       "settings": {
         "subheading": "",
-        "title": "Newness Now",
+        "title": "Best Selling",
         "content": "<p>Here for a good time, but not always a long time.<\/p>",
         "products_count": 8,
         "products_per_row": 4,
@@ -257,10 +266,19 @@
     "1f2fcbeb-c9af-4215-afab-df7fcfb88457": {
       "type": "featured-collections",
       "blocks": {
+        "collection_RDX4qH": {
+          "type": "collection",
+          "settings": {
+            "collection": "cartoon",
+            "label": "",
+            "button_text": "",
+            "button_url": ""
+          }
+        },
         "template--20623353151774__1f2fcbeb-c9af-4215-afab-df7fcfb88457-collection-1": {
           "type": "collection",
           "settings": {
-            "collection": "editors-picks",
+            "collection": "line-art",
             "label": "Some of Our Favs",
             "button_text": "Shop More Favs",
             "button_url": ""
@@ -269,16 +287,27 @@
         "688c1bb1-b8ac-4d89-a5c0-49b4d45e8f0f": {
           "type": "collection",
           "settings": {
-            "collection": "designers-to-know",
+            "collection": "中国风系列",
             "label": "Designers to Know",
             "button_text": "Shop More Now",
+            "button_url": ""
+          }
+        },
+        "collection_EL8Jf8": {
+          "type": "collection",
+          "settings": {
+            "collection": "puzzle",
+            "label": "",
+            "button_text": "",
             "button_url": ""
           }
         }
       },
       "block_order": [
+        "collection_RDX4qH",
         "template--20623353151774__1f2fcbeb-c9af-4215-afab-df7fcfb88457-collection-1",
-        "688c1bb1-b8ac-4d89-a5c0-49b4d45e8f0f"
+        "688c1bb1-b8ac-4d89-a5c0-49b4d45e8f0f",
+        "collection_EL8Jf8"
       ],
       "settings": {
         "subheading": "",
@@ -356,6 +385,12 @@
     "ec776669-46f6-47a6-bd6d-fb32d23d7686": {
       "type": "gallery",
       "blocks": {
+        "image_H7Unyy": {
+          "type": "image",
+          "settings": {
+            "caption": ""
+          }
+        },
         "template--20623353151774__ec776669-46f6-47a6-bd6d-fb32d23d7686-image-1": {
           "type": "image",
           "settings": {
@@ -382,14 +417,15 @@
         }
       },
       "block_order": [
+        "image_H7Unyy",
         "template--20623353151774__ec776669-46f6-47a6-bd6d-fb32d23d7686-image-1",
         "template--20623353151774__ec776669-46f6-47a6-bd6d-fb32d23d7686-image-2",
         "template--20623353151774__ec776669-46f6-47a6-bd6d-fb32d23d7686-image-3",
         "978efee2-7af3-4307-bc7e-e6d1e581b5eb"
       ],
       "settings": {
-        "subheading": "@at__present",
-        "title": "What You Wore",
+        "subheading": "@my_beauty_boost",
+        "title": "Community",
         "show_arrows": false,
         "background": "#000000",
         "text_color": "#ffffff"
