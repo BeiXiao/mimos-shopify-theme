@@ -11,6 +11,23 @@
   "type": "footer",
   "name": "Footer group",
   "sections": {
+    "1722246536edb57119": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_all_reviews_text_W8zAFm": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/all_reviews_text\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_all_reviews_text_W8zAFm"
+      ],
+      "settings": {
+        "include_horizontal_margins": true,
+        "include_vertical_margins": true
+      }
+    },
     "f86dcefe-0814-4025-a382-4473499d4398": {
       "type": "recently-viewed-products",
       "settings": {
@@ -56,6 +73,7 @@
     }
   },
   "order": [
+    "1722246536edb57119",
     "f86dcefe-0814-4025-a382-4473499d4398",
     "footer"
   ]
