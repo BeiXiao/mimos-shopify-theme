@@ -438,6 +438,11 @@
     "1722245702c06e2897": {
       "type": "apps",
       "blocks": {
+        "judge_me_reviews_all_reviews_text_wmfirh": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/all_reviews_text\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        },
         "judge_me_reviews_featured_carousel_FVkN8N": {
           "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {
@@ -446,11 +451,12 @@
         }
       },
       "block_order": [
+        "judge_me_reviews_all_reviews_text_wmfirh",
         "judge_me_reviews_featured_carousel_FVkN8N"
       ],
       "settings": {
         "include_horizontal_margins": false,
-        "include_vertical_margins": false
+        "include_vertical_margins": true
       }
     }
   },
