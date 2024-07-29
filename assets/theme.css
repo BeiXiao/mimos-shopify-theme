@@ -13235,14 +13235,16 @@ shopify-payment-terms:not(:only-child) {
 @media screen and (min-width: 1200px) {
 	.product-content__tabs {
 		flex: none;
-		width: calc(var(--grid-column-width) * 10 + var(--grid-gap) * 10);
+		/* width: calc(var(--grid-column-width) * 10 + var(--grid-gap) * 10); */
+		width: 100%;
 	}
 }
 
 @media screen and (min-width: 1400px) {
 	.product-content__tabs {
 		flex: none;
-		width: calc(var(--grid-column-width) * 11 + var(--grid-gap) * 11);
+		/* width: calc(var(--grid-column-width) * 11 + var(--grid-gap) * 11); */
+		width: 100%;
 	}
 }
 
