@@ -434,13 +434,6 @@
         "background": "#000000",
         "text_color": "#ffffff"
       }
-    },
-    "17222435746e1f41ed": {
-      "type": "apps",
-      "settings": {
-        "include_horizontal_margins": true,
-        "include_vertical_margins": true
-      }
     }
   },
   "order": [
@@ -451,7 +444,6 @@
     "fe00bda8-96b9-44b9-a1cc-ece3a6ecb267",
     "1f2fcbeb-c9af-4215-afab-df7fcfb88457",
     "996add08-d8d2-4ba6-ad8b-aedf27497e9c",
-    "ec776669-46f6-47a6-bd6d-fb32d23d7686",
-    "17222435746e1f41ed"
+    "ec776669-46f6-47a6-bd6d-fb32d23d7686"
   ]
 }
