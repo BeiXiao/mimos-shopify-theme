@@ -13199,7 +13199,8 @@ shopify-payment-terms:not(:only-child) {
 
 	.product-content__tabs {
 		flex: none;
-		width: calc(var(--grid-column-width) * 10 + var(--grid-gap) * 10);
+		width: 100%;
+		/* width: calc(var(--grid-column-width) * 10 + var(--grid-gap) * 10); */
 	}
 
 	.product-content__tabs .tabs-nav {
@@ -13219,14 +13220,15 @@ shopify-payment-terms:not(:only-child) {
 
 	/* On lap and up, the inner collapsible are always visible */
 	.product-tabs__tab-item-wrapper .collapsible {
-		border-color: rgb(var(--border-color));
+		/* border-color: rgb(var(--border-color)); */
 		border-radius: var(--block-border-radius);
-		border-style: solid;
-		border-width: 1px;
+		/* border-style: solid; */
+		/* border-width: 1px; */
 		height: auto;
 		overflow: auto;
 		padding: 24px;
 		visibility: visible;
+		background: #fcfcfc;
 	}
 }
 
