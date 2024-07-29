@@ -16074,3 +16074,8 @@ shopify-payment-terms:not(:only-child) {
 		scroll-snap-align: center;
 	}
 }
+
+
+#shopify-chat inbox-online-store-chat {
+	display: block;
+}
