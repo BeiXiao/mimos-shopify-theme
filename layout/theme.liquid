@@ -58,8 +58,8 @@
     <link rel="dns-prefetch" href="https://www.google-analytics.com">
 
     {%- comment -%}Preload important resources{%- endcomment -%}
-    {% comment %} {{ 'vendor.js' | asset_url | preload_tag: as: 'script' }} {% endcomment %}
-    <!-- {{ 'theme.js' | asset_url | preload_tag: as: 'script' }} -->
+    {%- comment -%} {{ 'vendor.js' | asset_url | preload_tag: as: 'script' }} {%- endcomment -%}
+    {%- comment -%}{{ 'theme.js' | asset_url | preload_tag: as: 'script' }}{%- endcomment -%}
     {{ 'theme.css' | asset_url | stylesheet_tag: preload: true }}
 
     {%- comment -%}
