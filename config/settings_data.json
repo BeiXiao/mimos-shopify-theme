@@ -128,24 +128,30 @@
         "settings": {
         }
       },
-      "15683396631634586217": {
-        "type": "shopify:\/\/apps\/inbox\/blocks\/chat\/841fc607-4181-4ad1-842d-e24d7f8bad6b",
+      "6610233760104865948": {
+        "type": "shopify:\/\/apps\/pushowl-brevo\/blocks\/pushowl-app-embed-3d2ff2b5\/fa20c3ba-38bf-43e0-ba5c-431f6ae07d95",
         "disabled": false,
         "settings": {
-          "button_color": "#FFCC00",
-          "secondary_color": "#FFFFFF",
-          "ternary_color": "#6A6A6A",
+        }
+      },
+      "6615124273980966592": {
+        "type": "shopify:\/\/apps\/chatty-livechat-helpdesk\/blocks\/app-embed\/1c0e135d-e8e1-4fe2-86be-1c36def46675",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "15683396631634586217": {
+        "type": "shopify:\/\/apps\/inbox\/blocks\/chat\/841fc607-4181-4ad1-842d-e24d7f8bad6b",
+        "disabled": true,
+        "settings": {
+          "button_color": "#ffcc00",
+          "secondary_color": "#ffffff",
+          "ternary_color": "#6a6a6a",
           "button_icon": "chat_bubble",
           "button_text": "chat_with_us",
           "button_horizontal_position": "bottom_right",
           "button_vertical_position": "lowest",
           "greeting_message": ""
-        }
-      },
-      "6610233760104865948": {
-        "type": "shopify:\/\/apps\/pushowl-brevo\/blocks\/pushowl-app-embed-3d2ff2b5\/fa20c3ba-38bf-43e0-ba5c-431f6ae07d95",
-        "disabled": false,
-        "settings": {
         }
       }
     }
