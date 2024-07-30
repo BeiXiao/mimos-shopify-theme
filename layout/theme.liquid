@@ -59,7 +59,7 @@
 
     {%- comment -%}Preload important resources{%- endcomment -%}
     {% comment %} {{ 'vendor.js' | asset_url | preload_tag: as: 'script' }} {% endcomment %}
-    {{ 'theme.js' | asset_url | preload_tag: as: 'script' }}
+    <!-- {{ 'theme.js' | asset_url | preload_tag: as: 'script' }} -->
     {{ 'theme.css' | asset_url | stylesheet_tag: preload: true }}
 
     {%- comment -%}
