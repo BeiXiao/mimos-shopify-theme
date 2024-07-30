@@ -128,7 +128,7 @@
         "89023c53-7f7c-4e97-a559-e5be9b5c8fe1": {
           "type": "content",
           "settings": {
-            "text": "Phone Case",
+            "text": "<strong>Stylish & Fashion<\/strong>",
             "title_style": "heading",
             "title_size": "h3",
             "text_color": "#ffffff",
@@ -256,7 +256,7 @@
         "subheading": "",
         "title": "Best Selling",
         "content": "<p>Here for a good time, but not always a long time.<\/p>",
-        "products_count": 8,
+        "products_count": 12,
         "products_per_row": 4,
         "stack_products": false,
         "show_cta": false,
@@ -336,8 +336,7 @@
             "custom_icon_width": 40,
             "title": "Free Standard Shipping",
             "content": "<p><a href=\"\/policies\/shipping-policy\" title=\"Shipping Policy\">See details<\/a><\/p>",
-            "link_onclick_text": "",
-            "link_onclick": ""
+            "link_onclick_text": ""
           }
         },
         "template--20623353151774__996add08-d8d2-4ba6-ad8b-aedf27497e9c-item-2": {
@@ -347,8 +346,7 @@
             "custom_icon_width": 40,
             "title": "Free 30-Day Returns",
             "content": "<p><a href=\"\/policies\/refund-policy\" title=\"Refund Policy\">See details<\/a><\/p>",
-            "link_onclick_text": "",
-            "link_onclick": ""
+            "link_onclick_text": ""
           }
         },
         "template--20623353151774__996add08-d8d2-4ba6-ad8b-aedf27497e9c-item-4": {
@@ -358,8 +356,7 @@
             "custom_icon_width": 40,
             "title": "Privacy Policy",
             "content": "<p><a href=\"\/policies\/privacy-policy\" title=\"Privacy Policy\">See details<\/a><\/p>",
-            "link_onclick_text": "",
-            "link_onclick": ""
+            "link_onclick_text": ""
           }
         },
         "item_LjG79A": {
@@ -369,8 +366,7 @@
             "custom_icon_width": 50,
             "title": "Contact Us",
             "content": "<p><a href=\"\/policies\/contact-information\" title=\"Contact Information\">Tell Us<\/a><\/p>",
-            "link_onclick_text": "",
-            "link_onclick": ""
+            "link_onclick_text": ""
           }
         }
       },
