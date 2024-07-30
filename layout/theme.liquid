@@ -58,6 +58,8 @@
     <link rel="dns-prefetch" href="https://www.google-analytics.com">
 
     {%- comment -%}Preload important resources{%- endcomment -%}
+    {{ 'vendor.js' | asset_url | preload_tag: as: 'script' }}
+    {{ 'theme.js' | asset_url | preload_tag: as: 'script' }}
     {{ 'theme.css' | asset_url | stylesheet_tag: preload: true }}
 
     {%- comment -%}
