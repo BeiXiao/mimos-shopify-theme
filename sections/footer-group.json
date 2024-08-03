@@ -32,7 +32,6 @@
       "blocks": {
         "links": {
           "type": "links",
-          "disabled": true,
           "settings": {
             "menu": "footer"
           }
