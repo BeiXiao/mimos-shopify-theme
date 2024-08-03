@@ -30,6 +30,18 @@
     "footer": {
       "type": "footer",
       "blocks": {
+        "links_ndjJE4": {
+          "type": "links",
+          "settings": {
+            "menu": "products"
+          }
+        },
+        "links_qrQpyQ": {
+          "type": "links",
+          "settings": {
+            "menu": "collections"
+          }
+        },
         "links": {
           "type": "links",
           "settings": {
@@ -39,12 +51,14 @@
         "0772e14f-bfb1-43d6-899e-fdb11cec1b65": {
           "type": "social_media",
           "settings": {
-            "title": "Follow us",
+            "title": "FOLLOW US",
             "content": ""
           }
         }
       },
       "block_order": [
+        "links_ndjJE4",
+        "links_qrQpyQ",
         "links",
         "0772e14f-bfb1-43d6-899e-fdb11cec1b65"
       ],
