@@ -5,7 +5,7 @@
     <!-- PRODUCT META -->
     <product-meta form-id="{{ product_form_id }}" price-class="price--large" class="product-meta">
       {% unless featured %}
-        <h1 class="product-meta__title text--body">{{ product.title }}</h1>
+        <h1 class="product-meta__title h1 text--body">{{ product.title }}</h1>
       {% else %}
         <h2 class="product-meta__title text--body">
           <a href="{{ product.url }}">{{ product.title }}</a>
