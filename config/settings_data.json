@@ -134,12 +134,6 @@
         "settings": {
         }
       },
-      "6615124273980966592": {
-        "type": "shopify:\/\/apps\/chatty-livechat-helpdesk\/blocks\/app-embed\/1c0e135d-e8e1-4fe2-86be-1c36def46675",
-        "disabled": false,
-        "settings": {
-        }
-      },
       "15683396631634586217": {
         "type": "shopify:\/\/apps\/inbox\/blocks\/chat\/841fc607-4181-4ad1-842d-e24d7f8bad6b",
         "disabled": true,
@@ -152,6 +146,12 @@
           "button_horizontal_position": "bottom_right",
           "button_vertical_position": "lowest",
           "greeting_message": ""
+        }
+      },
+      "18108454760841306367": {
+        "type": "shopify:\/\/apps\/targetpilot\/blocks\/app-embed-bot\/93f85a5a-d86d-4b50-a632-4934b10df7d9",
+        "disabled": false,
+        "settings": {
         }
       }
     }
